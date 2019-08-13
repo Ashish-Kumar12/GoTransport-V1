@@ -1,0 +1,14 @@
+body{
+	background-color: #c2dde6;
+}
+
+footer {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: #45a1ff;
+    color: #fff;
+    width: 100%;
+    bottom: 0;
+}
